@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<ama_scheduler>
+<tbl_class><class_id>2</class_id><subject>qwer</subject><section>asdf</section><room>asdf</room><start>00:00:00</start><end>13:00:00</end><professor>rqwer</professor><day>monday</day></tbl_class><tbl_class><class_id>2</class_id><subject>qwer</subject><section>asdf</section><room>asdf</room><start>00:00:00</start><end>13:00:00</end><professor>rqwer</professor><day>monday</day></tbl_class><tbl_class><class_id>3</class_id><subject>asdf</subject><section>asdf</section><room>asdf</room><start>00:00</start><end>13:00</end><professor>rqwer</professor><day>monday</day></tbl_class></ama_scheduler>

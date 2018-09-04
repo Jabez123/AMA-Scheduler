@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<ama_scheduler>
+	<tbl_class>
+		<class_id/>
+		<subject/>
+		<section/>
+		<day/>
+		<start/>
+		<end/>
+		<room/>
+		<professor/>
+	</tbl_class>
+</ama_scheduler>
